@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alice Combo
+* source:	https://sketchfab.com/3d-models/alice-combo-41438ce1be1040f781cc93e7e58ea938
+* author:	Crimson-Heaven (https://sketchfab.com/Crimson-Heaven)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alice Combo" (https://sketchfab.com/3d-models/alice-combo-41438ce1be1040f781cc93e7e58ea938) by Crimson-Heaven (https://sketchfab.com/Crimson-Heaven) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

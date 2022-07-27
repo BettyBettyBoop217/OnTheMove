@@ -1,0 +1,11 @@
+Model Information:
+* title:	Swing To Land
+* source:	https://sketchfab.com/3d-models/swing-to-land-66bca29cd9214d77a52da7fa72a13fa5
+* author:	hi_3 (https://sketchfab.com/hi_3)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Swing To Land" (https://sketchfab.com/3d-models/swing-to-land-66bca29cd9214d77a52da7fa72a13fa5) by hi_3 (https://sketchfab.com/hi_3) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

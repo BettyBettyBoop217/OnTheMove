@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Dog & Cat
+* source:	https://sketchfab.com/3d-models/low-poly-dog-cat-87cdb269db4a42faa32fa6e2f2621b35
+* author:	ashopf (https://sketchfab.com/ashopf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Dog & Cat" (https://sketchfab.com/3d-models/low-poly-dog-cat-87cdb269db4a42faa32fa6e2f2621b35) by ashopf (https://sketchfab.com/ashopf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

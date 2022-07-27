@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alice Jog
+* source:	https://sketchfab.com/3d-models/alice-jog-a77c01718b4e4601a0fb15559a8c6183
+* author:	Crimson-Heaven (https://sketchfab.com/Crimson-Heaven)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alice Jog" (https://sketchfab.com/3d-models/alice-jog-a77c01718b4e4601a0fb15559a8c6183) by Crimson-Heaven (https://sketchfab.com/Crimson-Heaven) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
