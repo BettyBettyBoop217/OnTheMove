@@ -60,7 +60,7 @@ public class OurHand : MonoBehaviour
 
         if (ourDevice.TryGetFeatureValue(CommonUsages.grip, out float gripValue))
         {
-            ourHandAnimator.SetFloat("Grip Value", gripValue);
+            ourHandAnimator.SetFloat("Grip", gripValue);
         }
         else
         {

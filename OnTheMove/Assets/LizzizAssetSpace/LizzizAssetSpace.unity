@@ -4295,8 +4295,8 @@ Transform:
   m_GameObject: {fileID: 568759701}
   m_LocalRotation: {x: 0.026219137, y: 0.17691484, z: 0.034934863, w: 0.9832565}
   m_LocalPosition: {x: -16.23, y: -0.31, z: -5.98}
-  m_LocalScale: {x: 11.939197, y: 3.186156, z: 10.874647}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 4.3915715, y: 1.1719575, z: 4}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 663720309}
   m_Father: {fileID: 0}
@@ -10696,6 +10696,7 @@ GameObject:
   - component: {fileID: 1454663450}
   - component: {fileID: 1454663449}
   - component: {fileID: 1454663448}
+  - component: {fileID: 1454663452}
   m_Layer: 14
   m_Name: RightHand Controller
   m_TagString: Untagged
@@ -11041,8 +11042,7 @@ MonoBehaviour:
   m_UpdateTrackingType: 0
   m_EnableInputTracking: 1
   m_EnableInputActions: 1
-  m_ModelPrefab: {fileID: 3413516334376179502, guid: 4ced4041bdf9f3042884b0cbb6fff171,
-    type: 3}
+  m_ModelPrefab: {fileID: 0}
   m_ModelParent: {fileID: 0}
   m_Model: {fileID: 0}
   m_AnimateModel: 0
@@ -11205,6 +11205,21 @@ MonoBehaviour:
     m_Reference: {fileID: 875253871413052681, guid: c348712bda248c246b8c49b3db54643f,
       type: 3}
   m_ButtonPressPoint: 0.5
+--- !u!114 &1454663452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1454663446}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f4670de82dc93a40919b0c9aa852207, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ourHandPrefab: {fileID: 3413516334376143694, guid: 4ced4041bdf9f3042884b0cbb6fff171,
+    type: 3}
+  ourControllerCharacteristics: 576
 --- !u!1 &1489385356 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4609147021711679738, guid: af41f8a230e4f914fa88d342d3371a04,
