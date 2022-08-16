@@ -1802,6 +1802,12 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 248239227}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &250226115 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2691883842810252901, guid: 7f2354199ae6d494d914aaeb351b448f,
+    type: 3}
+  m_PrefabInstance: {fileID: 362096301}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &251889535
 GameObject:
   m_ObjectHideFlags: 0
@@ -4109,6 +4115,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 14
       objectReference: {fileID: 0}
+    - target: {fileID: 4020471347060929678, guid: 7f2354199ae6d494d914aaeb351b448f,
+        type: 3}
+      propertyPath: m_Mass
+      value: 0.5
+      objectReference: {fileID: 0}
     - target: {fileID: 4097575574789129843, guid: 7f2354199ae6d494d914aaeb351b448f,
         type: 3}
       propertyPath: m_Layer
@@ -4254,6 +4265,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 14
       objectReference: {fileID: 0}
+    - target: {fileID: 7805612252961427927, guid: 7f2354199ae6d494d914aaeb351b448f,
+        type: 3}
+      propertyPath: m_AttachTransform
+      value: 
+      objectReference: {fileID: 1314633144}
     - target: {fileID: 7811520283851196546, guid: 7f2354199ae6d494d914aaeb351b448f,
         type: 3}
       propertyPath: m_Layer
@@ -13388,6 +13404,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1305856086}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1314633143
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1314633144}
+  m_Layer: 14
+  m_Name: Spear Grip
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1314633144
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1314633143}
+  m_LocalRotation: {x: -0.57455134, y: 0.02011624, z: -0.10034187, w: -0.8120454}
+  m_LocalPosition: {x: -4.1, y: 0.9, z: 61.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 250226115}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -290.42, y: 13.7, z: 23.63}
 --- !u!1 &1314765227
 GameObject:
   m_ObjectHideFlags: 0
