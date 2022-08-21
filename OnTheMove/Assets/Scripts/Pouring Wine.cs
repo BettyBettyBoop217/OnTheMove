@@ -2,8 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PourWine : MonoBehaviour
-{
+public class PouringWine : MonoBehaviour
+{ 
 
     public GameObject wineStream;
     public Transform wineBottle;
@@ -21,38 +21,43 @@ public class PourWine : MonoBehaviour
         bottleMidHeight = wineBottle.position.y;
         bottleTopHeight = bottleTop.position.y;
 
-        if ((bottleTopHeight - bottleMidHeight) > 0) 
+    if ((bottleTopHeight-bottleMidHeight) > 0)
+    {
+        pourCheck = true;
+    }
+    else
+    {
+        pourCheck = false;
+    }
+
+    if (isPouring != pourCheck)
+    {
+        isPouring = pourCheck;
+
+        if(isPouring)
         {
-            pourCheck = true;
+            StartPour();
         }
         else
         {
-            pourCheck = false;
-        }
-
-        if (isPouring != pourCheck)
-        {
-            isPouring = pourCheck;
-
-            if (isPouring)
-            {
-                StartPour();
-            }
-            else
-            {
-                EndPour();
-            }
+            EndPour();
         }
     }
+}
 
 
     private void StartPour()
     {
         wineStream.SetActive(true);
     }
+
     private void EndPour()
     {
         wineStream.SetActive(false);
     }
-}
 
+}  
+
+
+
+    
